@@ -18,7 +18,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ## quizu mockup
 - Splash screen
-  ![Splash](https://user-images.githubusercontent.com/34984048/192536854-0daca978-799b-4f4d-8d3d-ce8bdee31aa4.mp4)
+  https://user-images.githubusercontent.com/34984048/192536854-0daca978-799b-4f4d-8d3d-ce8bdee31aa4.mp4
 - Start screen
   ![Start](https://user-images.githubusercontent.com/34984048/192536955-cd470bcd-c65a-434e-a20e-f933298f9a55.png)
 - Otp screen
