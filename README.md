@@ -17,6 +17,25 @@ samples, guidance on mobile development, and a full API reference.
 
 
 ## quizu mockup
+- Splash screen
+
+- Start screen
+
+- Otp screen
+
+- Name screen
+
+- Home screen
+
+- Question screen
+
+- Result screen
+
+- Wrong screen
+
+- Leaderboard screen
+
+- Profile screen
 
 
 ###  Packages used in the project:
